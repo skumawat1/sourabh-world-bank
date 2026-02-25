@@ -1,0 +1,12 @@
+:root {
+  --brand-breakpoints-desktop: 1024px;
+  --brand-breakpoints-mobile: 480px;
+  --brand-breakpoints-tablet: 768px;
+  --brand-breakpoints-wide: 1280px;
+  --brand-colors-background: #ffffff;
+  --brand-colors-primary: #color;
+  --brand-colors-secondary: #color;
+  --brand-typography-font-family-base: "Source Sans Pro", Arial, sans-serif;
+  --brand-typography-font-size-base: 16px;
+  --brand-typography-font-size-small: 12px;
+}
